@@ -1,0 +1,80 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Sprite_Grid_png,Sprite_HelmBlack_png,Sprite_HelmSliver_png,Sprite_ShoseBlue_png,Sprite_ShoseGreen_png,Sprite_Weapon_SwordRed_png,Sprite_Weapon_SwordYellow_png,Hero_Archer_jpg,Sprite_Panel_Item_png,Sprite_Close_png,Sprite_Select_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Sprite_Grid_png",
+			"type": "image",
+			"url": "assets/Sprite_Grid.png"
+		},
+		{
+			"name": "Sprite_HelmBlack_png",
+			"type": "image",
+			"url": "assets/Sprite_HelmBlack.png"
+		},
+		{
+			"name": "Sprite_HelmSliver_png",
+			"type": "image",
+			"url": "assets/Sprite_HelmSliver.png"
+		},
+		{
+			"name": "Sprite_ShoseBlue_png",
+			"type": "image",
+			"url": "assets/Sprite_ShoseBlue.png"
+		},
+		{
+			"name": "Sprite_ShoseGreen_png",
+			"type": "image",
+			"url": "assets/Sprite_ShoseGreen.png"
+		},
+		{
+			"name": "Sprite_Weapon_SwordRed_png",
+			"type": "image",
+			"url": "assets/Sprite_Weapon_SwordRed.png"
+		},
+		{
+			"name": "Sprite_Weapon_SwordYellow_png",
+			"type": "image",
+			"url": "assets/Sprite_Weapon_SwordYellow.png"
+		},
+		{
+			"name": "Hero_Archer_jpg",
+			"type": "image",
+			"url": "assets/Hero_Archer.jpg"
+		},
+		{
+			"name": "Sprite_Panel_Item_png",
+			"type": "image",
+			"url": "assets/Sprite_Panel_Item.png"
+		},
+		{
+			"name": "Sprite_Close_png",
+			"type": "image",
+			"url": "assets/Sprite_Close.png"
+		},
+		{
+			"name": "Sprite_Select_png",
+			"type": "image",
+			"url": "assets/Sprite_Select.png"
+		}
+	]
+}
